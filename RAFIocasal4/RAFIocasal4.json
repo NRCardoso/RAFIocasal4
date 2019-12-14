@@ -967,7 +967,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Básico-826b7",
+            "name": "Básico-3fc4a",
             "req": [
                 [
                     0,
@@ -1019,7 +1019,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Omissão de Palavras-46eba",
+            "name": "Omissão de Palavras-cfd1b",
             "sortf": 0,
             "tags": [],
             "tmpls": [
