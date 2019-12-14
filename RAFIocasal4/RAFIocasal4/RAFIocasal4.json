@@ -1,0 +1,1084 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "1861834e-1e95-11ea-9a91-ff12f6f8b0cc",
+                    "deck_config_uuid": "1860cf95-1e95-11ea-bc52-ff12f6f8b0cc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [
+                        "paste-345180e47a5ce404d689e1a5ff0e9a12cfd9bbe3.jpg",
+                        "paste-3d4cd9bc7e07515f0b16ff0f91efd86c41297b0d.jpg",
+                        "paste-6a86b814918475d91d426db1df36b7d172472b8f.jpg",
+                        "paste-8539caacb7bf94d621011be29fcbe8f74cd91191.jpg",
+                        "paste-8e1b6859190926173a298489a365257fd1b98b87.jpg"
+                    ],
+                    "name": "Diabetes",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Diagnótico de Diabetes e Pré",
+                                "1-Glicose plasmatica em jejum &gt;/= 110 V 126mg/dL em 2 ocasiões&nbsp;<div><br></div><div>2-Glicose plasmática ao acaso &gt;/=200mg/dL + sintomas</div><div><br></div><div>3-Glicose às 2h num teste de tolerancia oral à glicose &gt;/=140 V 200mg/dL em 2 ocasiões</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "u5k?wS8B5u",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "A1c na pré e diabetes",
+                                "5,7 V 6,5 %"
+                            ],
+                            "flags": 0,
+                            "guid": "j?AtBdG?5c",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "A1c: pontos fortes e fracos",
+                                "Fo: cronica, nao afetada por estados recentes<div>Fr: afetada por problemas da hemoglobina, turnover g.rubros...</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "zxG*z[Y$Ns",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Conversao A1c em glicemia",
+                                "<img src=\"paste-6a86b814918475d91d426db1df36b7d172472b8f.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "tIM?PrY;&[",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Diagnostico Diabetes Gestacional",
+                                "Jejum: &gt;/= 92mg/dL&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(-30 que pessoa normal)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; se &gt;/=126 é pq era previa à diabetes<div>2h PTOG: &gt;/= 153mg/dL&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(-50 que pessoa normal)</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "QKNU7SxA:/",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Alvos glicemia na DGestacional",
+                                "Jejum &lt;/= 95<div>1h pos-prandial &lt;/=140<br><div>2h pos-prandial &lt;/=120</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "E~5rX?G$l*",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Dieta diabetico",
+                                "-Menos consumo<div>-Monitorizaçao CH</div><div>-Consumo de fruta, legumes, vegetais, cereais integrais e lacticineos</div><div>-Sodio até 1,5-2,3mg/dia</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "ssDpfC0q]-",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Niveis de A1c e glicemia alvo",
+                                "A1c&lt;/=7% e jejum&lt;/=130 :&nbsp;<div><br></div><div>A1c&lt;/=6,5% se doença recente, longa esperança de vida, baixo risco de hipoglicemia, s/ HP de enfarte, AVC e albuminuria&lt;300mg em 24h</div><div><br></div><div>A1c&lt;/=8% se risco de hipoglicemia (historia de glicemia severa), EMV curta, complicaçoes, dificil alvo</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "PuuAbpU@4j",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Relaçao estatistica diabetes-obesidade",
+                                "90% diabeticos tem excesso de peso<div><br></div><div>Obesos tem 4x + risco de diabetes</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "M6LLWhU:}Q",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Mecanismo de açao dos antidiabeticos (imagem)",
+                                "<img src=\"paste-3d4cd9bc7e07515f0b16ff0f91efd86c41297b0d.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "mH[=./E_!a",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Calculos Bomba de insulina",
+                                "TDDi (dose diaria total de insulina)<div><br><div>TDDp = TDDix0.8</div><div><br></div><div>Insulina basal total diaria = TDDp:2</div><div><br></div><div>Quantidade necessaria por hora = IBTD:24</div><div><br></div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "GImz9@0MYg",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ICR: Racio carbohidratos em adultos e crianças",
+                                "Adultos: Regra dos 500: 500/TDDp=carbohidratos cobertos por 1 unidade de insulina<div><br></div><div>Criança: Regra dos 300: 300/TDDp=carbohidratos cobertos por 1 unidade de insulina<div><br></div><div>(total daily dose on insulin pump)</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "A.0`<F/X33",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Início de ação e duração da insulina rápida",
+                                "30min | 1h30"
+                            ],
+                            "flags": 0,
+                            "guid": "suEJM/bO{V",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Limitações da insulina cristalizada",
+                                "<img src=\"paste-8e1b6859190926173a298489a365257fd1b98b87.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "E#m-<eh*Gv",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Insulinas de ação rapida- Exemplos",
+                                "Girls And Lads<div><br></div><div>Glulisina</div><div>Aspart</div><div>Lispro</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "Hd{US/A+l+",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Insulina ultra rápida: exemplos",
+                                "Humalog<div>NovoRapid</div><div>Apidra</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "zYDdJQYJ5C",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "<div>Insulina ultra rápida: inicio e duraçao de açao<br></div>",
+                                "Instantaneo&nbsp;<div>30min</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "B_/OpQ$cM<",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Insulina de ação intermedia: exepmlos",
+                                "NPH"
+                            ],
+                            "flags": 0,
+                            "guid": "J!~F&qLaR?",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Insulina de ação intermedia: inicio e duraçao",
+                                "1h30<div>4h</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "nZ)oDuO3wP",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Limitações NPH",
+                                "Não imita perfil de insulna basal<div>-Picos pronunciados</div><div>Hipoglicemias imprevisiveis</div><div>-Aumento de peso</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "EzaAaPL=`?",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Caracteristicas de insulina basal ideal",
+                                "<img src=\"paste-8539caacb7bf94d621011be29fcbe8f74cd91191.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "m>+:g4DLJY",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Insulinas de ação lenta: exemplos",
+                                "Dont Go<div><br></div><div>Detemir</div><div>Glargina</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "GFkiWb`e8P",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Insulinas de ação ultralonga: exemplos",
+                                "Degludec (+segura que glargina)"
+                            ],
+                            "flags": 0,
+                            "guid": "tvQ@D,*^&z",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Nome das insulinas que se administram de varias classes",
+                                "<img src=\"paste-345180e47a5ce404d689e1a5ff0e9a12cfd9bbe3.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "ffBIm1hZr:",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Insulinoterapia basal (administraçoes do que)",
+                                "-2 de intermedia (manha e deitar)<div>-1/2 de longa (24h)</div><div>-Bomba infusora</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "k<_YaT$Pj?",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Insulinoterapia DM1 (DDTi, distribuição dia)",
+                                "DDTi=0,5-1UI/kg&nbsp; &nbsp; &nbsp; (dose total diaria de insulina)<div><br></div><div>50% basal</div><div>50% ás refeições</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "uLG`O7d.BR",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Sensor de glicemia implantado de contacto: nome e localizaçao",
+                                "FreeStyle Libre<div>Parte posterior do braço</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "nP`*f^~Ynj",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Fator de sensibilidade é insulina e Dose de correção de insulina (calculos)",
+                                "1800/DDTi (dose total diaria de insulina)<div><br></div><div>Glicemia que a uma unidade de insulina baixa</div><div><br></div><div>(Glicemia-120(alvo))/FSI= UInsulina a mais do normal que temos de dar (pode ser dada isoladamente fora de refeiçoes</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "b*]Qa3NfI:",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Situaçoes em que insulina pode ser considerada em DM2",
+                                "Não podem ser gravidas:<div><br><div>-Recem-diagnosticados marcadamente sintomaticos V glicemias eevadas (300-350mg/dL) V HbA1c=10-12%</div><div><br></div><div>-Terapeutica nao farmacologica associada aos ADO não é suficiente para compensaçao metabolica</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "Jb`_crxmGE",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "A que niveis de HbA1c considerar terapeutica dupla ou iniciar insulina",
+                                "Dupla- 9%<div>Insulina 10%</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "dtII6H^/tU",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Como iniciar Insulina Basal em DM2",
+                                "1- 10U/dia V 0,1-0,2U/kg/dia<div><br></div><div>2- Aumentar 2U a cada 3 dias ate glicemia alvo</div><div><br></div><div>Se hipoglicemia: pesquisar causa, se desconhecida baixar 4U ou 10-20% da dose</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "hl=JY~fGud",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Na insulinoterapia de DM2, se insulina so nao controlar a A1c:",
+                                "Adicionar arGLP1<div><br></div><div>Se nao tolerado, mudar para 2 admin de insulina</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "y:,YBrT|(5",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Na insulinoterapia, se a arGLP1 e 2 admin de insulina nao funcionarem...?",
+                                "Adicionar insulina rapida antes da refeiçao principal (4U ou 0,1U/kg ou 10% da basal)<div>-Se nao resultar, adicionar basal-bolus antes das refeiçoes<br><div><br></div><div>OU</div><div><br></div><div>Alterar para insulina pre-mistura 2x/dia</div></div><div>-Se nao resultar, 3ª admin insulina pre-mistura antes do almoço</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "MFB:dr$A`r",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "18630b4d-1e95-11ea-9558-ff12f6f8b0cc",
+                    "deck_config_uuid": "1860cf95-1e95-11ea-bc52-ff12f6f8b0cc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "Obesidade",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Perimero abdominal de alto risco CV e rácio cinta anca",
+                                "H&gt;94cm<div>M&gt;80cm</div><div><br></div><div>P.cinta/P.anca&gt;0,95</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "m2JpCz`e$<",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Perimetro abdominal para muito alto risco CV",
+                                "H&gt;102cm<div>M&gt;88cm</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "m?u04s#E|&",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "% gordura corporal normal e obesidade no adulto",
+                                "H:&nbsp; &nbsp;N&lt;20%&nbsp; O&gt;25%<div>M:&nbsp; N&lt;25%&nbsp; &nbsp;O&gt;33%</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "L{,Yn~y4_h",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Calculo do IMC",
+                                "peso/altura^2"
+                            ],
+                            "flags": 0,
+                            "guid": "Cw1nS{L>v,",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Diagnostico de sindrome metabolico",
+                                "3 de 5 parametros<div><br></div><div>-Perimetro abdominal</div><div>-TAG&gt;/=150mg/dL</div><div>-HDL&lt;40mg/dL em homens &lt;50mg/dL em mulheres</div><div>-Glicemia&gt;/=100mg/dL</div><div>-PAS&gt;/=130mmHg&nbsp; &nbsp; &nbsp; PAD&gt;/=85mmHG</div><div><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "L*lw2TbO~Q",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Indicaçoes para terapia na obesidade",
+                                "Tr. Médico: todos com excesso de peso<div>Tr. Farmacologico:&nbsp; &nbsp; &nbsp; s/complicações IMC&gt;/=30%&nbsp; &nbsp; &nbsp; &nbsp;c/ complicaçoes IMC&gt;/=27%</div><div>Tr. Cirurgico:&nbsp; &nbsp; &nbsp; &nbsp;s/complicações IMC&gt;/=40%&nbsp; &nbsp; &nbsp; &nbsp;c/ complicaçoes IMC&gt;/=35%<br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "c$q;m`5|:~",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "18630b63-1e95-11ea-96af-ff12f6f8b0cc",
+                    "deck_config_uuid": "1860cf95-1e95-11ea-bc52-ff12f6f8b0cc",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [
+                        "paste-ccdf76cf317867a3f0c2cc6a69f667ccbd5f13c1.jpg"
+                    ],
+                    "name": "Mama",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Rastreio Nacional da mama: meio, populaçao, frequencia",
+                                "Mulheres 45-69anos<div>Mamografia</div><div>2 em 2 anos</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "CzYrc4Tg^[",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Etiologia cancro da mama",
+                                "Genetico:<div>-Exporadico 90%</div><div>-Hereditário 10% (BRCA1 e 2, TP53, pTEN e CDH1)</div><div><br></div><div>Exposiçao a estrogenios</div><div><br></div><div>Exposiçao a radiaçao ionizantes</div><div>Doença mamaria proliferativa (hiperplasia atipica)</div><div>Elevada densidade ammaria</div><div>Dieteticos/alcool</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "cM5`wb<il0",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Diagnostico Cancro da Mama: meios",
+                                "Mamografia bilateral de 2 incidencias<div>Ecografia mama e ganglios</div><div>RMN nao é usada por rotina</div><div><br></div><div>Microbiopsia guiada por eco ou estereotaxia (mamografia)</div><div>Citologia aspiritiva&nbsp;<br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "A[m>jh?%ss",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "O que avaliamos na biopsia?",
+                                "Ca invasor ou in situ<div>Tipo histologico e grau</div><div>Recetores hormonais</div><div>HER2</div><div>Ki67 (marcador de proliferaçao)</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "bkGsufLw@1",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Subtipos moleculares de cancro da mama",
+                                "<img src=\"paste-ccdf76cf317867a3f0c2cc6a69f667ccbd5f13c1.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "b#p1]-75.k",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Tratamentos Loco-regionais e Sistemicos no cancro da mama: tipos",
+                                "LR: cirurgia; radioterapia<div><br></div><div>S: quimioterapia; hormonoterapia; terapeutica biologica</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "qHQ||-|r-]",
+                            "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "Na tumorectomia da mama, faz-se para alem disso {{c1::radioterapia da mama restante}}",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "Ht9(No@MKh",
+                            "note_model_uuid": "18630b79-1e95-11ea-b57d-ff12f6f8b0cc",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "A ressonância magnética é o método {{c1::mais sensível}} na detecção do cancro da mama, tendo contudo {{c1::muitos falsos positivos}}. Avalia {{c1::extensão e multifoco}}.",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "Jx:K,N0&oU",
+                            "note_model_uuid": "7548cb31-1e9f-11ea-b705-8ffc40c11ed4",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "1860cf98-1e95-11ea-86fe-ff12f6f8b0cc",
+            "deck_config_uuid": "1860cf95-1e95-11ea-bc52-ff12f6f8b0cc",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-0bf11dacc70d0174f359be710cc7f42b8d4b8f39.jpg"
+            ],
+            "name": "Endocrino",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Quando começam as complicaçoes macro e micro vasculares da diabetes?",
+                        "Quando a insulina deixa de conseguir compensar o aumento da resistencia à insulina"
+                    ],
+                    "flags": 0,
+                    "guid": "xlf+TQ8T^U",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Risco relativo de mortalidade pos-enfarte em diabeticos",
+                        "3x o de nao diabeticos"
+                    ],
+                    "flags": 0,
+                    "guid": "gR(X_u:|Hk",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Risco relativo de diabeticos sem enfarte terem enfarte",
+                        "= ao de um não-diabetico com enfarte (4x o normal)"
+                    ],
+                    "flags": 0,
+                    "guid": "l4s}y<)KR`",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Locais de lesoes macrovasculares na DMII",
+                        "Coraçao, Cérebro, Extremidades"
+                    ],
+                    "flags": 0,
+                    "guid": "yG~g14`1Y{",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Inibidores SGLT2: 3 efeitos nao antidiabeticos",
+                        "Perda de peso<div><br><div>Diminuição TA</div><div><br></div><div>DIminui albuminuria (natriurese provoca vasoconstriçao aferente, levando a diminuiçao da HTGlomerular</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "w4i*KO)kMw",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "iSGLT2 reduzem que 3 tipos de eventos?",
+                        "Renais, IC e morte CV"
+                    ],
+                    "flags": 0,
+                    "guid": "k!Dd%4K)6q",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "iSGLT2 na IR (administrar? condiçoes?)",
+                        "Se TFG&lt;60% não iniciar iSGLT2 (mas se ja estiver a tomar, continuar ate 45%)"
+                    ],
+                    "flags": 0,
+                    "guid": "PTq^GE69oY",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Nefropatia diabetica: intervençao",
+                        "<div>Se proteinuria tratar</div><div>Se microalbuminuria repetir 2x (2 de 3 +) e depois tratar</div><div><br></div>-Reduzir ingestao de proteinas<div>-Mudança de estilo de vida (até 3 meses)</div><div><br></div><div>-Anti-hipertensores (iECA ou ARAII)</div><div>Se macroalbuminuria, nefropatia e IR usar ARA</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "OOYCzJT-ob",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Complicaçao mais frequente da diabetes",
+                        "Neuropatia"
+                    ],
+                    "flags": 0,
+                    "guid": "OFIGrC?9ul",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Teste do monofilamento Semmes-Weinstein para Neuropatia diabética: execussão",
+                        "<img src=\"paste-0bf11dacc70d0174f359be710cc7f42b8d4b8f39.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Oeq4vYybp*",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Linha sequencial de tratamento da DMII (visao mais geral)",
+                        "Monoterapia (Metformina)<div>Terpeutica Dupla (metformina+...)</div><div>Terapeutica Tripla (metformina+...+...)</div><div>Insulinoterapia associada (metformina+basal+prandial/arGLP1)</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "qaa2Pv|K[W",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Terapeutica DMII com DCV",
+                        "Metformina + arGLP1 ou iSGLT2<div>|<br><div>Metformina + ar GLP1 + iSGLT2 ou iDPP4 ou insulina basal ou TZD ou SU</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "IqXlDmAU(E",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Terapeutica DMII com DRC ou IC",
+                        "Metformina +&nbsp; iSGLT2&nbsp;<div>Metfomina + arGLP se iSGLT2 nao tolerado</div><div><br></div><div>Metformina + iSGLT2 + arGLP ou iDPP4 ou insulina basal ou SU</div><div><br></div><div>CI-TZD</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "OlK8Qvw9gB",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Melhor arGLP1",
+                        "-tide<div>Liraglutide</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "uY9{Q8^B1i",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Melhores iSGLT2 para IC",
+                        "-flozina<div>Empaglifozina e Canaglifozina</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "K]a-{(r|Hb",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Terapeutica DM2 para minimizar hipoglicemia",
+                        "Metformina + iDPP4 ou arGLP1 ou iSGLT2 ou TZD<div><br></div><div>SU e Insulina tem risco de hipoglicemia&nbsp;</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "C:v1/YAQai",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Terapeutica DM2 para perda de peso",
+                        "Metformina + arGLP1 ou iSGLT2<div>|</div><div>Metformina + arGLP1 + iSGLT2<br></div><div>|</div><div>Metformina + iDPP4 + iSGLT2<br></div><div><br></div><div><br></div><div>SU TiaZolineDionas e insulina basal aumentam peso</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "D(~vf}3LXX",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Terapeutica DM2 mais barata",
+                        "SulfoniUreias e TiaZolineDionas"
+                    ],
+                    "flags": 0,
+                    "guid": "zH7CnuGk4;",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "MODY: etiologia, tipos",
+                        "Defeitos geneticos na funçao das celulas beta.<div>Ha 6 tipos, sendo que 2 é controlada pela dieta e nao aumenta risco microvascular ao contrario das outras.</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Hxv=)y}F??",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Porque se dá a disfunçao das celulas beta na DM2?",
+                        "Deposiçao da amilina pela excessiva secreçao de insulina"
+                    ],
+                    "flags": 0,
+                    "guid": "w_h;*|bkU!",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Sintomas DM 1 e 2",
+                        "Poliruria (nocturia, glicosuria)<div>Polifagia</div><div>Polidipsia</div><div>Fadiga</div><div>Disturbios visuais</div><div>Infeçoes</div><div><br></div><div>Perda de peso (DM1)</div><div>Acantose nigricante (DM2)</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Dbju/>/b-?",
+                    "note_model_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "1860cf94-1e95-11ea-8abb-ff12f6f8b0cc",
+    "deck_config_uuid": "1860cf95-1e95-11ea-bc52-ff12f6f8b0cc",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "1860cf95-1e95-11ea-bc52-ff12f6f8b0cc",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 0,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "name": "RAFIocasal4",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "1860f685-1e95-11ea-bc2a-ff12f6f8b0cc",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Frente",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Verso",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Básico-3fc4a",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Verso}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Ficha 1",
+                    "ord": 0,
+                    "qfmt": "{{Frente}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "18630b79-1e95-11ea-b57d-ff12f6f8b0cc",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Texto",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Omissão de Palavras-cfd1b",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Texto}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Omissão de Palavras",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Texto}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "7548cb31-1e9f-11ea-b705-8ffc40c11ed4",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Texto",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Omissão de Palavras",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Texto}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Omissão de Palavras",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Texto}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": []
+}
