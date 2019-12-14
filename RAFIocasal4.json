@@ -603,6 +603,18 @@
                             "guid": "Ht9(No@MKh",
                             "note_model_uuid": "18630b79-1e95-11ea-b57d-ff12f6f8b0cc",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "A ressonância magnética é o método {{c1::mais sensível}} na detecção do cancro da mama, tendo contudo {{c1::muitos falsos positivos}}. Avalia {{c1::extensão e multifoco}}.",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "Jx:K,N0&oU",
+                            "note_model_uuid": "7548cb31-1e9f-11ea-b705-8ffc40c11ed4",
+                            "tags": []
                         }
                     ]
                 }
@@ -955,7 +967,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Básico",
+            "name": "Básico-3fc4a",
             "req": [
                 [
                     0,
@@ -984,6 +996,49 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "18630b79-1e95-11ea-b57d-ff12f6f8b0cc",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Texto",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Omissão de Palavras-cfd1b",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Texto}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Omissão de Palavras",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Texto}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "7548cb31-1e9f-11ea-b705-8ffc40c11ed4",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
             "flds": [
                 {
